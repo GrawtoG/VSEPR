@@ -1,0 +1,16 @@
+H Li Na K Rb Cs Fr ;
+Be Mg Ca Sr Ba Ra He ;
+La Ac Sc Y Lu Lr B Al Ga In Tl Nh ;
+Ce Th Ti Zr Hf Rf C Si Ge Sn Pb Fl ;
+Pr Pa V Nb Ta Db N P As Sb Bi Mc ;
+Nd U Cr Mo W Sg O S Se Te Po Lv ;
+Pm Np Mn Tc Re Bh F Cl Br I At Ts ;
+Sm Pu Fe Ru Os Hs Ne Ar Kr Xe Rn Og ;
+Eu Am Co Rh Ir Mt ;
+Gd Cm Ni Pd Pt Ds ;
+Tb Bk Cu Ag Au Rg ;
+Dy Cf Zn Cd Hg Cn ;
+Ho Es ;
+Er Fm ;
+Tm Md ; 
+Yb No ;
