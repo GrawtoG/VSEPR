@@ -68,7 +68,7 @@ void ZwiazekSumarycznieNaGraf(string zwiazekSumarycznie, vector<string> &zwiazek
             }
         }
 
-        // cout<<s<<endl;
+        // cout<<s<<endl;n
 
         // cout<<symbolNaIndex(s)<<endl;
 
@@ -80,8 +80,10 @@ int main()
 {
     setlocale(LC_CTYPE, "Polish");
     string zwiazek;
+    cout << "Podaj wzor zwiazku: " << endl;
     cin >> zwiazek;
     vector<string> zwiazekLadnie;
+
     ZwiazekSumarycznieNaGraf(zwiazek, zwiazekLadnie);
     for (int i = 0; i < zwiazekLadnie.size(); i++)
     {
