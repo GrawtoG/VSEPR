@@ -112,7 +112,7 @@ int main()
     cout << "Hybrydyzacja: " << DetermineHybridization(steric) << endl;
     cout << "Geometria moleku³y: " << DetermineShape(steric, bondPairs, lonePairs);
     cout << "\n\n";
-    // system("pause");
+    system("pause");
 
     return 0;
 }
